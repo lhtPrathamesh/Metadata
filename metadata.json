@@ -2,9 +2,15 @@
     "name": "NEAR Certificate",
     "symbol": "NEARC",
     "description": "A test NFT for LTE certificate",
-    "seller_fee_basis_points": 5,
+    "seller_fee_basis_points": 1,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
-    "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg"
+    "image": "https://img.freepik.com/free-vector/elegant-blue-gold-diploma-certificate-template_1017-17257.jpg",
+     "properties": {
+    "collection": {
+        "verified": true,
+        "key": "AgPqo93u6aBDLfUeYhkwzfSC1wcbTAUeo6V8ff3Yb15X",
+    },
+  }
 }
